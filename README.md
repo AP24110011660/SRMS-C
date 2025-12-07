@@ -1,4 +1,5 @@
-# SRMS-C
+# SRMS_C
+//for looking as same as heading
 
 # Student Record Management System (SRMS) – C Language Project
 
