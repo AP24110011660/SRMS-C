@@ -1,8 +1,0 @@
------ ALL STUDENTS -----
-
-ID: AP24110010149
-Name: G.Vaibhav
-Branch: B.Tech
-Section: C
-CGPA: 8.60
-Phone: 7013431249
